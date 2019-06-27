@@ -1,0 +1,14 @@
+C:\Users\AZMA\Projects\search-engine\SearchEngineApp\SearchEngine.API\bin\Debug\netcoreapp2.2\SearchEngine.API.deps.json
+C:\Users\AZMA\Projects\search-engine\SearchEngineApp\SearchEngine.API\bin\Debug\netcoreapp2.2\SearchEngine.API.runtimeconfig.json
+C:\Users\AZMA\Projects\search-engine\SearchEngineApp\SearchEngine.API\bin\Debug\netcoreapp2.2\SearchEngine.API.runtimeconfig.dev.json
+C:\Users\AZMA\Projects\search-engine\SearchEngineApp\SearchEngine.API\bin\Debug\netcoreapp2.2\SearchEngine.API.dll
+C:\Users\AZMA\Projects\search-engine\SearchEngineApp\SearchEngine.API\bin\Debug\netcoreapp2.2\SearchEngine.API.pdb
+C:\Users\AZMA\Projects\search-engine\SearchEngineApp\SearchEngine.API\obj\Debug\netcoreapp2.2\SearchEngine.API.csprojAssemblyReference.cache
+C:\Users\AZMA\Projects\search-engine\SearchEngineApp\SearchEngine.API\obj\Debug\netcoreapp2.2\SearchEngine.API.csproj.CoreCompileInputs.cache
+C:\Users\AZMA\Projects\search-engine\SearchEngineApp\SearchEngine.API\obj\Debug\netcoreapp2.2\SearchEngine.API.RazorAssemblyInfo.cache
+C:\Users\AZMA\Projects\search-engine\SearchEngineApp\SearchEngine.API\obj\Debug\netcoreapp2.2\SearchEngine.API.RazorAssemblyInfo.cs
+C:\Users\AZMA\Projects\search-engine\SearchEngineApp\SearchEngine.API\obj\Debug\netcoreapp2.2\SearchEngine.API.AssemblyInfoInputs.cache
+C:\Users\AZMA\Projects\search-engine\SearchEngineApp\SearchEngine.API\obj\Debug\netcoreapp2.2\SearchEngine.API.AssemblyInfo.cs
+C:\Users\AZMA\Projects\search-engine\SearchEngineApp\SearchEngine.API\obj\Debug\netcoreapp2.2\SearchEngine.API.RazorTargetAssemblyInfo.cache
+C:\Users\AZMA\Projects\search-engine\SearchEngineApp\SearchEngine.API\obj\Debug\netcoreapp2.2\SearchEngine.API.dll
+C:\Users\AZMA\Projects\search-engine\SearchEngineApp\SearchEngine.API\obj\Debug\netcoreapp2.2\SearchEngine.API.pdb
